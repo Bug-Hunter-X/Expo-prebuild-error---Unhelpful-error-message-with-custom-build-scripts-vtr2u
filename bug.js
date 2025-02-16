@@ -1,0 +1,1 @@
+This error occurs when using the `expo prebuild` command with a project that has a custom build script. The error message is not very informative, and it can be difficult to debug.  The issue stems from a conflict between the Expo prebuild process and a custom build step that modifies files Expo expects to find in a specific state.
